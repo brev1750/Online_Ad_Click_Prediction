@@ -14,3 +14,6 @@ Normalize means in mathematics divide a vector by its magnitude to produce a uni
 Standardization means to transform it to have zero mean (subtraction of mean). 
 Normalization scales in data in short interval like [0,1] and data in standardization are unbounded.
 
+
+Order of Operations in Arithmetic:
+PEMDAS - Parentheses, Exponents, Multiplication/Division, Addition/Subtraction.
