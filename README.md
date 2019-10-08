@@ -5,6 +5,8 @@ Predict if website user will click on an online advertisement or not to build ta
 In practical environment, clicks training data will be highly unbalanced.
 Because, online advertising comapanies will have 'impressions' in Millions but 'Engagement' (Click/Watch/Purchase,basically a user action on displayed advertisement) in Thousands.
 
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 
 #Normalization vs Standardization
 Normalize means in mathematics divide a vector by its magnitude to produce a unit vector.  
